@@ -1,0 +1,35 @@
+[
+    {
+        "keys": [
+            "ctrl+alt+c"
+        ],
+        "command": "banana_mate_clean"
+    }
+	,
+    {
+        "keys": [
+            "ctrl+alt+k"
+        ],
+        "command": "banana_mate_check"
+    }
+	,
+    {
+        "keys": [
+            "ctrl+alt+i"
+        ],
+        "command": "banana_mate_init"
+    }    
+	,
+    {
+        "keys": [
+            "ctrl+alt+g"
+        ],
+        "command": "banana_mate_groovy"
+    },
+    {
+        "keys": [
+            "ctrl+alt+o"
+        ],
+        "command": "banana_mate_all"
+    }      
+]
